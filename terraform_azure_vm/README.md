@@ -290,3 +290,5 @@ Always review the plan output and ensure you understand the resources being dest
 ## Note
 Azure can sometimes have slight delays in allocating and associating dynamic public IPs. When using Dynamic allocation method, the IP address is not assigned until the associated resource (like a VM or Load Balancer) is started.
 Running terraform apply again usually will show the output IP.
+
+Remember to double-check that resources have been terminated to avoid costs.
