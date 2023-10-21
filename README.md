@@ -6,5 +6,5 @@ Welcome to my repository where I store projects centered around cloud technologi
 
 - **Azure**: Projects here utilize Microsoft's Azure platform, tapping into its robust offerings for a wide range of cloud applications.
 
-Feel free to explore the projects, and any feedback or collaboration is appreciated. Stay tuned for more cloud adventures!
-
+Feel free to explore the projects, and any feedback or collaboration is appreciated. Stay tuned for more cloud projects to come!
+ 
